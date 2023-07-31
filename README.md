@@ -1,2 +1,2 @@
 # recipes
-Recipes project from curriculum
+Recipes project from the odin project curriculum
