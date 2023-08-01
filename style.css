@@ -1,0 +1,71 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    min-height: 90vh;
+    min-width: 90vw;
+    font-family: 'Courier New', Courier, monospace;
+}
+img{
+    width: 400px;
+    height: auto;
+    display: block;
+    margin: 20px auto;
+}
+.content-container{
+    display: block;
+    width: 50%;
+    margin: 10px auto;
+    background-color: blanchedalmond;
+    padding: 30px;
+    min-height: 80vh;
+    margin-top: 10vh;
+}
+h1{
+    text-align:center;
+    font-size: 3rem;
+}
+h2{
+    text-align: center;
+}
+.menu{
+    width: 200px;
+    margin: 0 auto;
+    list-style: none;
+    margin-top: 10px;
+}
+.menu li{
+    text-align: center;
+    font-size: 1.5rem;
+}
+.menu a{
+    text-decoration: none;
+    color: black;
+}
+.menu a:hover{
+    color:brown;
+}
+.ingredients{
+    margin: 10px 0;
+}
+.ingredients ul{
+    margin-left: 20px;
+}
+.steps ol{
+    margin-left: 30px;
+}
+.home-button{
+    display: block;
+    margin: 5px auto;
+    padding: 10px;
+    background-color: brown;
+    color:bisque;
+    text-decoration: none;
+}
+a{
+    text-decoration: none;
+}
+
+
